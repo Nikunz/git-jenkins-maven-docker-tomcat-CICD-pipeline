@@ -2,13 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.domain</groupId>
-  <artifactId>demo</artifactId>
+  <artifactId>Nick-docker</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Demo Maven Webapp</name>
+  <name>Nick-docker-CICD</name>
   <url>https://github.com/tongueroo/demo-java</url>
   <build>
-    <finalName>demo</finalName>
+    <finalName>Nick-docker-CICD</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
